@@ -12,7 +12,7 @@ I can get the IP address, language and operating system for my browser.
             
 ###Examples:
 
-`https://arcane-basin-8045.herokuapp.com/December%2015,%202015`
+`https://header-request-parser-ktakats.herokuapp.com/api`
 
             
 #####Output:
